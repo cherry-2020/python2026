@@ -1,0 +1,7 @@
+
+postgresql://user:pass@localhost:5432/mydb
+
+postgresql://user:pass@localhost:5432/mydb
+
+用户名 username: Ev3rSmok3
+密码 password: iBeforeEexceptAfterC
